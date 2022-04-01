@@ -1,8 +1,9 @@
 // import files and packages up here
+const data = require("./data.json");
 
 
 // create your express server below
-var app;
+const app=
 
 // add your routes and middleware below
 
