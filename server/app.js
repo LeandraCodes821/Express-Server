@@ -3,7 +3,7 @@ const data = require("./data.json");
 const express = require('express');
 
 // create your express server below
-var app;
+const app= express();
 
 // add your routes and middleware below
 
